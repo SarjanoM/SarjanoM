@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+First-year engineering student. I use GitHub mainly to submit coursework, small utilities, and experiments. Nothing fancy.
+
+Nothing active at the moment. This repository exists as a completed academic submission and reference.
+
+I use C ,Python (occasionally), GitHub for version control and submissions
 <!--
 **SarjanoM/SarjanoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
